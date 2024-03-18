@@ -29,6 +29,12 @@ public class Result {
      		System.out.println("Hello");
      		return;
 	}
+
+    void testSome()
+ 	{
+     		System.out.println("Hi");
+     		return;
+	}
 	
 
 }
