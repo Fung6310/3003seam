@@ -23,11 +23,6 @@ public class Result {
         System.out.println(getTotal());
 
     }
-
-    void myTest()
-    {
-        System.out.println("HI");
-    }
    
     void testAll()
  	{
